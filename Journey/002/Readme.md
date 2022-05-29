@@ -9,12 +9,9 @@
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
+
 The trial and error here was mostly having to try about a dozen times to get the trial setup.  In the end, I had to start over with a new tenant. 
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
 ### Step 1 — Setup a Trial Microsoft 365 E3 License for ClandaTechnology.com Tenant
 
