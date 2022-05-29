@@ -34,6 +34,6 @@ Not sure what I should do tomorrow.  Probably setup Exchange and Outlook.  Getti
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+
+[Twitter Post as Proof](https://twitter.com/SemperDiscens02/status/1531011672269369344)
