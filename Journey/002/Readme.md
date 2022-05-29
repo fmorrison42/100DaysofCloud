@@ -1,49 +1,39 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+
+# Day 2 - Licensing & Azure AD Admin Roles
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
 
-## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
 
 - ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+The trial and error here was mostly having to try about a dozen times to get the trial setup.  In the end, I had to start over with a new tenant. 
 
 ## Try yourself
 
 ✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
+### Step 1 — Setup a Trial Microsoft 365 E3 License for ClandaTechnology.com Tenant
 
-![Screenshot](https://via.placeholder.com/500x300)
+Normally, this would be a very simple process, however, there seems to be something very janky going on with Microsoft allowing a previous trial tenant to setup a new trial.  Clearly, it doesn't work.  Therefore, I just created a new one.  Thankfully, I wasn't too far into the process of the old one. 
 
-### Step 1 — Summary of Step
+Created a One Month Trial of Microsoft 365 E3. 
 
-![Screenshot](https://via.placeholder.com/500x300)
+### Step 2 - Setting me as Global Administrator and creating another user for a second administrator
 
-### Step 3 — Summary of Step
+Tony Stark is my first assistant and the other Global Administrator of Clanda Technology.  I think Steve Rogers will soon be hired as our Exchange Administrator.  I have several other administrator positions open and several excellent candidates in mind. 
 
-![Screenshot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+I now have 50 licenses to use for this lab and two administrators. 
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+Not sure what I should do tomorrow.  Probably setup Exchange and Outlook.  Getting emails flowing is a useful feature to have. 
 
 ## Social Proof
 
