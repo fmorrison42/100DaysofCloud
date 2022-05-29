@@ -1,35 +1,26 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Day One! - Configuring the Tenant
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Without an initial configuration and strong foundation of a tenant, any add-ons or follow on training within would not be of value.  I would be trying to fix problems that should never have existed.  
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- How to create a new tenant in MS 365.  That's pretty much it.  While I'm starting from a pre-existing lab tenant, there isn't much configured so beyond the initial startup, I'm pretty much starting from scratch too.
 
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
 ## Try yourself
 
 ✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
+### Step 1 — Adding a Custom Domain
 
-![Screenshot](https://via.placeholder.com/500x300)
+- Add a custom domain name to the tenant: In the Main Admin portal, select the Setup link on the left toolbar and one of the first options available should be to setup a custom domain name.  You can also use [this guide from Microsoft's Documentation](https://docs.microsoft.com/en-us/microsoft-365/admin/setup/add-domain?view=o365-worldwide) to help. 
 
-### Step 1 — Summary of Step
+### Step 2 — Reviewing the Licensing Structures and Selecting the Most Appropriate for your Lab / Tenant
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
