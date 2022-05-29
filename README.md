@@ -22,12 +22,12 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 [✍️ Tell us where you want to be at the end of the challenge]
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [Link to My Twitter: SemperDiscens02](https://twitter.com/semperdiscens02)
+
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [Day One - Setting Up the Tenant](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
