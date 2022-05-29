@@ -1,5 +1,4 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+
 
 # Day One! - Configuring the Tenant
 
@@ -22,22 +21,15 @@ Without an initial configuration and strong foundation of a tenant, any add-ons 
 
 ### Step 2 — Reviewing the Licensing Structures and Selecting the Most Appropriate for your Lab / Tenant
 
-![Screenshot](https://via.placeholder.com/500x300)
+There are several different options for licensing for your tenant.  In the Main Admin Portal, select Billing in the left toolbar > then Purchase Services.  From there, you can select the details of each option available for purchase, such as Microsoft 365 E3 (the one I'm using), or Office 365 E5, etc.
 
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+My Tenant has been created, I have added a custom domain name, and setup a free trial of Microsoft 365 E3 for 30 days for 25 seats.  
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+I'll let you know tomorrow
 
-## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
