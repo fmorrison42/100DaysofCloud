@@ -34,7 +34,7 @@ Spoiler Alert!
 I received the email after getting the DNS records sorted out.  Woohoo! 
 
 <p align="left">
-  <img src="Templates/homer-woohoo.jpg">
+  <img src="homer-woohoo.jpg">
 </p>
 
 ### Step 3 — Summary of Step
