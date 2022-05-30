@@ -1,37 +1,41 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+
+# Day 3 - Exchange Online Configuration 
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I'm doing this one today because email is very useful and a key component to Microsoft 365 infrastructure. Also, I'm pretty sure that most things going forward will need some kind of email verification or email connector, so yea, having a functioning mail system is necessary. 
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+A firm grasp on how mail flow and MS Exchange in general works, 365 Admin Roles, and Outlook endpoint connector configuration.  
 
-## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- My first research was on how to configure MX records when there aren't any already setup in your Domain Registrar.  I thought it was something that would be added when you connect your domain to 365 automatically, which ironically, I was right.  I just wasn't patient enough to figure that out.  So my research was to discover that I needed to be patient. 
 
-## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+### Step 1 — Configuring DNS Records in Domain Registrar
 
-### Step 1 — Summary of Step
+After you've setup your users in Azure AD or MS 365 Admin Portal and assigned them a license that includes Exchange/Mail, after Microsoft processes the request, they will have an Exchange Mailbox automatically created for them.  So that part is fairly automated.  
 
-![Screenshot](https://via.placeholder.com/500x300)
+- However, it does appear that even though I connected the domain to 365 as a custom domain on Day One, the Mail Exchanger (MX) records were not created.  So that is what I need to do first.  
 
-### Step 1 — Summary of Step
+- (Correction) I only partially connected the domain to 365, although not sure why.  It didn't add all of the DNS records it was supposed to.  Perhaps there is a delay in the registration or setup and now that it's uploaded into 365, I am able to add in the DNS records properly.  Either way, I've got the records entered.  And not just MX and SPF, but the Skype/Lync connectivity and even the Intune Mobile Device Enrollment DNS records as well! So those will come in handy in a few weeks when I start on the Intune MDM topics. 
 
-![Screenshot](https://via.placeholder.com/500x300)
+### Step 2 - Testing the Email in Outlook
+
+Fairly straight forward:  Send myself an email from another account and see what happens.  
+
+Spoiler Alert!
+
+I received the email after getting the DNS records sorted out.  Woohoo! 
+
+<p align="left">
+  <img src="Templates/homer-woohoo.jpg">
+</p>
 
 ### Step 3 — Summary of Step
 
