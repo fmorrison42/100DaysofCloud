@@ -37,20 +37,14 @@ I received the email after getting the DNS records sorted out.  Woohoo!
   <img src="homer-woohoo.jpg" width="25%" height="25%"/>
 </p>
 
-### Step 3 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Email is flowing in both directions through Exchange! 
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+still trying to figure that one out. 
 
-## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
