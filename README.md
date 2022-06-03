@@ -29,15 +29,15 @@
 - [ ] ☁️ 2 > [Day Two - Licensing & Azure AD Admin](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [Day Three - Exchange Online Configuration](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [Day Four - Managing Tenant Service Health](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
+- [ ] ☁️ 5 > [Day Five - Miscellaneous Additional 365 Tenant Configurations](Journey/005/Readme.md)
+
+## Kicking it into high gear
+
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
-
-## Walking down the road
-
 - [ ] ☁️ 11 > [](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [](Journey/013/Readme.md)
