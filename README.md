@@ -33,7 +33,7 @@
 
 ## Kicking it into high gear
 
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
+- [ ] ☁️ 6 > [Day 6 - Explore SharePoint Online as a Microsoft 365 Enterprise Administrator (MS Learn Course)](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
