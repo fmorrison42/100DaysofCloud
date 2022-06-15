@@ -17,7 +17,9 @@ Like I said, it's not super flashy or amazing. And it certainly won't cure cance
 ## Explanation
 
 1) The first part is to create a time based trigger that will kick off the flow.  For me, I wanted it to happen every week day.  At first, I thought it couldn't happen but again, it's Microsoft and that's not likely.  A tiny bit of research and found out that the Weekly trigger will allow you to select the individual days of the week in which you want it to run. After the days, you will have to configure the time along with the first day you want it to begin in a unique format:  `2022-01-01T15:00:00Z`  The date is obvious, but the time is in 24hour standard time defaulted to UTC but you can select your local timezone in the advanced settings of the trigger box.
+
 2) Then, after you've set the date and time, the next step is to configure the link from OneDrive/SharePoint.  This one is pretty straight forward.  Select the task to create link from file and it will give you options to select whether users who have the link can edit or view only and whether they can be 'anonymous' users or if they must be Organization Users only. (add info about 
+
 3) Finally, this is where you create the email and add the link generated from OneDrive.  Search for Outlook email and add
 
 ## Social Proof
