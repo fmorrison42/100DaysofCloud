@@ -1,52 +1,25 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+
+# Day 11 - Create flows as a Microsoft 365 Enterprise Administrator with Power Automate
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I've already created several basic flows in Power Automate for some simple shit and it's been useful but this lesson will incorporate it into being able to manage PA as an Enterprise Administrator.  It was also one of my weak spots on the test last time, so yea, I need to improve here. 
 
-## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+## Research
 
-## Use Case
+- Even though there are over 270 different connections available in PA, users still have to have permissions to each application to which they want to make connections or an automation.  The security behind PA is top notch. 
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- PA flow development occurs in "Environments", such an apt name, but the good part is that there are distinct benefits to this: data locality (the data remains local to you and not spread across the world and risk it being compromised), data loss prevention (see previous benefit), isolation boundaries (see previous previous)...
 
-## Cloud Research
+- When a user adds another user or group as the owner of a flow, that flow becomes a TEAM FLOW. As such, it's only displayed under 'Team Flows'. 
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+## Procedure
 
-## Try yourself
+It looks like there won't be much of a description or step by step of procedures today because the Power Automate lessons are mostly about the various features available for managing Power Automate as an Enterprise Administrator in MS 365.  
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+So therefore, I'm just putting my research notes for future reference and any Anki cards I think could be made and might be useful up here. 
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
