@@ -38,7 +38,7 @@
 - [ ] ☁️ 8 > [Day 8 - Elevate Privileges using Azure AD Priviledged Identity Management](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [Day 9 - My First (moderately) Advanced Power Automate Flow](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [Day 10 - Creating a Conditional Access Policy: Block legacy authentication](Journey/010/Readme.md)
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
+- [ ] ☁️ 11 > [Day 11 - Create flows as a Microsoft 365 Enterprise Administrator with Power Automate](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
