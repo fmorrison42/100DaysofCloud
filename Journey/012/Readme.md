@@ -1,5 +1,4 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+
 
 # Day 12 - Create reports and dashboards as a Microsoft 365 Enterprise Administrator with Power BI
 
@@ -28,11 +27,21 @@ To administer Power BI, you have to be assigned one of the following roles: Glob
 
 Power BI Admins have full control over org-wide Power BI settings and admin features, except for licensing.  They also do not have access to the Audit logs within Power BI.  
 
+#### Data Sources & Connections
+
+Standard Data Sources: 
+- Microsoft Excel
+- Salesforce
+- Microsoft Dynamics
+- Azure Blob Storage
+
+Power BI Desktop supports 3 methods for connecting to data sources:
+- Import, or a one time connection and download of the data into Power BI Desktop.
+- Direct Query.  No data is imported or copied into PBI.  Instead, when the user creates a visualization, Power BI Desktop queries the underlying data source at the time of the visualization.  Therefore, the data being presented is always current.
+- Live Connection. 
 
 
-### Steps / Procedural Notes
 
-- Outline the steps necessary to complete this project to better prove thorough understanding. 
 
 
 ## Social Proof
