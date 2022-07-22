@@ -39,7 +39,7 @@
 - [ ] ☁️ 9 > [Day 9 - My First (moderately) Advanced Power Automate Flow](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [Day 10 - Creating a Conditional Access Policy: Block legacy authentication](Journey/010/Readme.md)
 - [ ] ☁️ 11 > [Day 11 - Create flows as a Microsoft 365 Enterprise Administrator with Power Automate](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
+- [ ] ☁️ 12 > [Day 12 - Create reports and dashboards as a Microsoft 365 Enterprise Administrator with Power BI](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
